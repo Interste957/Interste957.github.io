@@ -22,7 +22,7 @@ repository               : "Interste957Interste957.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://s21.ax1x.com/2025/02/24/pE1nSEj.jpg"
   name             : " 白子衿 "
   pronouns         :  "女孩子"  
   bio              : "爱摄影和旅游"
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Interste957"
+  github           : #"Interste957"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
