@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<!DOCTYPE html>
+
 <html>
 
 <body>
