@@ -12,13 +12,7 @@ redirect_from:
 
 <body>
 
-  <a href="#about-us">跳转到关于我们</a>
-
-  <div style="height:1000px;"></div> <!-- 模拟页面内容，使页面有足够高度 -->
-
-  <a id="about-us"></a>
-  <h2>关于我们</h2>
-  <p>这里是关于我们的内容。</p>
+  <a href="https://www.baidu.com" target="_blank" title="这是百度的链接">百度一下，你就知道</a>
 
 </body>
 
