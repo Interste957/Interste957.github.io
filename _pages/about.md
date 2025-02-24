@@ -7,3 +7,4 @@ redirect_from:
   - /about.html
 ---
 
+[百度]（https://www.baidu.com）!!!
